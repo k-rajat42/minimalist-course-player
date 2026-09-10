@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.vercel/
+
+# Env / secrets
+.env
+.env.local
+.env.production
+
+# Generated download archive
+public/genai-course-tracker.zip
+
+# Editor / OS noise
+.DS_Store
+*.log
